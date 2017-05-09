@@ -1,0 +1,21 @@
+{
+ "intents": [
+   {
+     "intent": "ParticleIntent",
+     "slots": [
+       {
+         "name": "openclose",
+         "type": "LITERAL"
+       },
+       {
+         "name": "position",
+         "type": "LITERAL"
+       }
+     ]
+   },
+   {
+     "intent": "HelpIntent",
+     "slots": []
+   }
+ ]
+}

@@ -1,0 +1,12 @@
+ParticleIntent {open|openclose} vent
+ParticleIntent {close|openclose} vent
+ParticleIntent {open|openclose} the vent
+ParticleIntent {close|openclose} the vent
+ParticleIntent {open|openclose}
+ParticleIntent {close|openclose}
+
+ParticleIntent open {low|position}
+ParticleIntent open {medium|position}
+ParticleIntent open {high|position}
+
+HelpIntent help
